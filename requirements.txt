@@ -1,0 +1,4 @@
+flask
+pylti1p3
+gunicorn
+python-dotenv
